@@ -1,0 +1,4 @@
+{
+  "jwtPrivateKey": "edukacija_jwtPrivateKey",
+  "port": "edukacija_port"
+}

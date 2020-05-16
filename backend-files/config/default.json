@@ -1,0 +1,6 @@
+{
+  "jwtPrivateKey": "edukacijaKey",
+  "db": "mongodb://localhost/edukacija",
+  "port": "3900",
+  "requiresAuth": true
+}
