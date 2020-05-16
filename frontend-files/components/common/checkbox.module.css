@@ -1,0 +1,24 @@
+.checkbox {
+  width: 100%;
+  outline: none;
+  margin: 0;
+  padding: 0;
+}
+
+.checkboxInput {
+  cursor: pointer;
+  margin: 18px 0;
+  margin-right: 5px;
+  position: relative;
+  top: 2px;
+}
+
+.checkboxInput:focus {
+  border: 1px solid #2dc997;
+}
+
+.checkboxLabel {
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+}

@@ -1,0 +1,25 @@
+.iconBtn {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  border-color: transparent;
+  background-color: #212529;
+  color: #fff;
+  outline: none;
+}
+
+.iconBtn:hover {
+  background: #2dc997;
+}
+
+.iconBtn:active,
+.iconBtn:focus {
+  outline: none !important;
+}
+
+@media (max-width: 750px) {
+  .iconBtn {
+    width: 70px;
+    height: 70px;
+  }
+}
